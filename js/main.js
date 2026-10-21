@@ -3,7 +3,7 @@
    ============================================================ */
 var CONFIG = {
   // Where the "Continue" button sends the visitor.
-  url: "https://short.do/BSiMFV",
+  url: "https://tinyurl.com/54fr8a3p",
 
   // Forward the current page's query string (e.g. ?sub=abc) to the target.
   passQuery: true,
